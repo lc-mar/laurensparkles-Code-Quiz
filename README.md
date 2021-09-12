@@ -31,5 +31,5 @@ THEN I can save my initials and my score
 <img src="/Users/laurenmarcinek/laurensparkles-Code-Quiz/assets/Screenshot.png" alt="screenshot of site"/>
 
 ## Links
-https://github.com/lc-mar/laurensparkles-Code-Quiz
+https://github.com/lc-mar/laurensparkles-Code-Quiz <br>
 https://lc-mar.github.io/laurensparkles-Code-Quiz/
